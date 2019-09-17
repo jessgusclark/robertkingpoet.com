@@ -1,0 +1,8 @@
+{%- assign array = audiofile | split:'|' %}
+{%- assign title = array[0] %}
+{%- assign file = array[1] %}
+
+<h3>{{title}}</h3>
+<audio controls >
+    <source src="/listen/{{ file | lstrip }}" />
+</audio>

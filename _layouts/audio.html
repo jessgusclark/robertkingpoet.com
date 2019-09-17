@@ -1,0 +1,15 @@
+---
+layout: one-column
+---
+
+<h2>Five Poems from _Some of These Days_ (Conundrum Press, 2013)</h2>
+{% for audiofile in page.fiveaudio %}
+    {% include mp3player.html %}
+{% endfor %}
+
+<h2>Audio</h2>
+{% for audiofile in page.audio %}
+    {% include mp3player.html %}
+{% endfor %}
+
+{{ content }}
