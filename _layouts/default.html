@@ -3,11 +3,37 @@
   <head>
     <meta charset="utf-8">
     <title>Robert King Poet</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.5.3/dist/css/foundation.min.css" integrity="sha256-GSio8qamaXapM8Fq9JYdGNTvk/dgs+cMLgPeevOYEx0= sha384-wAweiGTn38CY2DSwAaEffed6iMeflc0FMiuptanbN4J+ib+342gKGpvYRWubPd/+ sha512-QHEb6jOC8SaGTmYmGU19u2FhIfeG+t/hSacIWPpDzOp5yygnthL3JwnilM7LM1dOAbJv62R+/FICfsrKUqv4Gg==" crossorigin="anonymous">
+    <link rel="SHORTCUT ICON" href="/favicon.ico" />
+    <link rel="stylesheet" href="/assets/css/robert-king.css" />
   </head>
   <body>
-
-      <h1>{{page.title}}</h1>
-      {{content}}
+    <div id="container">
+      <div id="page">
+        <div id="header">
+          <img src="/assets/images/heading.jpg" alt="Robert King Author &amp; Poet"  />
+        </div>
+        <div id="topnav">
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../recent/index.html">Recent</a>
+            <li><a href="index.html">Bibliography  </a></li>
+            <li><a href="../reviews/index.html">Reviews </a></li>
+            <li><a href="../interview/index.html">Interview</a></li>
+            <li><a href="../listen/index.html">Audio/Video</a></li>
+            <li style="border:none;"><a href="orderingInfo/index.html"> Order Information </a></li>
+          </ul>
+        </div>
+        <div id="content">
+          {{content}}
+        </div>
+		  </div>
+	  
+      <div id="footer">
+        <ul>
+          <li>Robert King</li>
+          <li><a href="https://coloradopoetscenter.org">Colorado Poets Center</a></p>
+        </ul>
+      </div>
+    </div>
   </body>
 </html>

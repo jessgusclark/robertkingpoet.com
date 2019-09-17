@@ -1,0 +1,45 @@
+/* CSS Document 
+Created: 2007 Jesse Clark
+For more information please visit https://developerjesse.com
+*/
+
+* {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
+
+body {background-color:#ECECEC; margin:20px 0; padding:0; background-image:url(/assets/images/body_background.jpg); background-repeat:repeat-x;}
+#container {width:746px; margin:auto; background-image:url(/assets/images/pagetop.jpg); background-repeat:no-repeat; padding:10px 0 0 0;}
+#page { width:724px; padding:0 11px 15px 11px;  float:left;  background-image:url(/assets/images/pagebackground.jpg); background-repeat:repeat-y;}
+#topnav {background-image:url(/assets/images/topnav_back.jpg); background-repeat:no-repeat; margin:8px 0 8px 0; height:39px;}
+#topnav ul {margin:0 0 0 13px; padding:10px 0 0 0; list-style-type:none;}
+#topnav>ul {padding-top:7px;}
+#topnav li {display:inline; border-right:1px solid #ffffff; font-size:12px; padding:0 7px;}
+#topnav a {color:#FFFFFF; text-decoration:none;}
+#topnav a:hover {text-decoration:underline; color:#025ca0}
+
+
+#content {padding:0 13px 0px 13px; width:700px; padding-bottom:0; float:left;}
+#content h1 {font-family:Georgia, "Times New Roman", Times, serif; color:#65a7db; font-size:151%; font-style:italic; border-bottom:double 3px #65a7db;}
+#content h2 {color:#686868;  font-family:Georgia, "Times New Roman", Times, serif; font-style:italic; font-size:120%; font-weight:bold;}
+#content h3 {color:#949494; font-weight:bold; font-size:90%; margin-bottom:0; padding-bottom:0;}
+#content p {font-size:80%; line-height:170%;}
+#content img {border:1px solid #7c7c7c; padding:1px; margin:10px;}
+#content address p {margin:0; line-height:150%; font-style:normal;}
+#content ul {font-size:80%;}
+#content ul ul {font-size:100%;}
+#content a {color:#1c70b1; text-decoration:none;}
+#content a:hover {border-bottom:1px #1c70b1 dashed;}
+
+
+#footer {background-image:url(/assets/images/page-bottom.gif); background-repeat:no-repeat; background-position:bottom; width:746px; padding-bottom:7px; margin:auto; margin-top:0; clear:both;}
+#footer ul {width:746x; height:22px; background-image:url(/assets/images/footer_background.jpg); background-repeat:no-repeat; margin:0; padding:3px 0 0 11px; list-style-type:none;}
+#footer li {display:inline; font-size:11px; color:#fff; padding:0 10px; border-right:1px solid #fff;}
+#footer a {border-bottom:1px dashed #fff; text-decoration:none; color:#fff;}
+
+/* Optional Elements */
+#leftnav {width:220px; float:left; padding:0 0 0 0;}
+#content>#leftnav {padding-top:13px;}
+#leftnav ul {margin:0; padding:0; list-style-type:none;}
+#leftnav li {background-color:#e4e4e4; padding:2px 10px; margin:5px 0;}
+#leftnav a {color:#4b4b4b;}
+#leftnav ul li ul {font-size:100%; margin-left:15px;}
+
+#nestedcontent {width:450px; margin:0; padding:0 15px; float:left;}
