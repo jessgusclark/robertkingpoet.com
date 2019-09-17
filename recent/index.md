@@ -64,7 +64,7 @@ title: Recent Poems & Commentary
 
 <ul>
     <li><a href="where-to-leave.html">Choosing Where to Leave </a>- <a href="where-to-leave.html#commentary">Commentary</a></li>
-    <li><a href="earlierErrors.html">Earlier  Errors</a> - <a href="earlierErrors.html#commentary">Commentary</a></li>
+    <li><a href="earlier-errors.html">Earlier  Errors</a> - <a href="earlier-errors.html#commentary">Commentary</a></li>
     <li><a href="cezanne.html">The  Things of Cezanne</a> - <a href="cezanne.html#commentary">Commentary </a></li>
     <li><a href="onthetrail.html">On the Trail</a> - <a href="onthetrail.html#commentary">Commentary</a></li>
     <li><a href="america.html">In America</a> - <a href="america.html#commentary">Commentary</a></li>
