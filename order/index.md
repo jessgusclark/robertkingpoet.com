@@ -8,7 +8,7 @@ title: Ordering Information
 $13.05</p>
 <p><a href="http://www.amazon.com/Old-Man-Laughing-Robert-King/dp/0978945638/ref=sr_1_1?ie=UTF8&qid=1399906291&sr=8-1&keywords=Old+Man+Laughing">Available at Amazon.com</a></p>
 <h2><a name="twice" id="twice"></a>Order Stepping Twice into the River: Following Dakota Waters </h2>
-<p>Use this <a href="../SteppingTwice/SteppingTwice.pdf">order form.</a> </p>
+<p>Use this <a href="/bibliography/SteppingTwice/SteppingTwice.pdf">order form.</a> </p>
 <h2><a name="chapbooks" id="chapbooks"></a>Chapbooks</h2>
 <h3><em>Rodin &amp; Co. </em>(Grayson  Books, 2011, 25 pp.)</h3>
 <p>Send $10 for each book, plus $2 (S&amp;H) with your name and address to:</p>

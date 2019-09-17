@@ -43,7 +43,7 @@ Press of&nbsp; Colorado,  2005. A finalist for the 2005 Colorado Book Award.</p>
 <ul>
 <li><a href="rodin/reviews.html">Reviews</a></li>
 <li><a href="rodin/samples.html">Sample</a></li>
-<li><a href="http://robertkingpoet.com/bibliography/orderingInfo/index.html">To Order</a></li>
+<li><a href="http://robertkingpoet.com/order">To Order</a></li>
 </ul>
 <h3><em>What It Was Like</em></h3>
 <p>Small  Poetry Press Select Poets Series, 2003 </p>
