@@ -37,7 +37,7 @@ Press of&nbsp; Colorado,  2005. A finalist for the 2005 Colorado Book Award.</p>
 <li><a href="SteppingTwice/samples.html">Sample</a></li>
 <li><a href="SteppingTwice/SteppingTwice.pdf">To Order 	    </a></li>
 </ul>
-<h2>Poetry Chapbooks</h2>
+## Poetry Chapbooks</h2>
 <h3>Robin &amp; Co.</h3>
 <p>Grayson Books, 2011</p>
 <ul>
@@ -70,5 +70,7 @@ Press of&nbsp; Colorado,  2005. A finalist for the 2005 Colorado Book Award.</p>
 <p> Dacotah Territory Press, 1990  (out-of-print)</p>
 <h3>            <em>Standing Around  Outside</em></h3>
 <p> Bloodroot Press, 1970 (out-of-print)</p>
-<h2>Interview</h2>
+
+## Interview
+
 <p>&ldquo;An interview  with Robert King, <em>South Dakota Review</em>,  Summer, 2001.</p>
