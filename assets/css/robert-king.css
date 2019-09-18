@@ -12,6 +12,7 @@ body {background-color:#ECECEC; margin:20px 0; padding:0; background-image:url(/
 #topnav ul {margin:0 0 0 13px; padding:10px 0 0 0; list-style-type:none;}
 #topnav>ul {padding-top:7px;}
 #topnav li {display:inline; border-right:1px solid #ffffff; font-size:12px; padding:0 7px;}
+#topnav li:last-child {border:none;}
 #topnav a {color:#FFFFFF; text-decoration:none;}
 #topnav a:hover {text-decoration:underline; color:#025ca0}
 
