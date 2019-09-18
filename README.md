@@ -1,6 +1,6 @@
-# robertkingpoet.com
+# RobertKingPoet.com
 
 Jekyll implementation of RobertKingPoet.com
 
-The [existing site](https://robertkingpoet.com) is hosted with GitHub pages but uses older code with Dreamweaver Templates. This repo is for a Jekyll implementation and responsive.
+Not all content areas have been converted into markdown. The site was originally built with Dreamweaver and this is the Jekyll implementation of the site for GitHub Pages. 
 
